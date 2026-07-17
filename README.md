@@ -61,7 +61,7 @@ https://hub.docker.com/r/<dockerhub_username>/custom-nginx
 
 ### Образ в Docker Hub
 
-![DockerHub](task1/screenshots/dockerhub.png)
+!https://hub.docker.com/repository/docker/iliademin/custom-nginx/general
 
 ---
 
