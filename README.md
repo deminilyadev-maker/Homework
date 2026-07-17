@@ -399,16 +399,3 @@ docker compose down
 ![Down](task5/screenshots/down.png)
 
 ---
-
-# Итог
-
-В ходе выполнения лабораторной работы были:
-
-- установлен Docker и Docker Compose;
-- создан собственный Docker-образ nginx;
-- опубликован образ в Docker Hub и локальном Registry;
-- изучена работа контейнеров и проброс портов;
-- изучено использование bind mount;
-- освоена работа с Docker Compose;
-- выполнено развертывание сервисов через Portainer;
-- изучена работа локального Docker Registry.
