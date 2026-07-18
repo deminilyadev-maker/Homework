@@ -233,7 +233,7 @@ docker run -d --name debian-1 -v $(pwd):/data debian tail -f /dev/null
 ```bash
 docker exec -it centos-1 bash
 
-echo "Hello from CentOS" > /data/file1.txt
+echo "Hello from DevOps" > /data/test.txt
 ```
 
 ---
