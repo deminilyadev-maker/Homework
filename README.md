@@ -291,6 +291,11 @@ services:
 ## Почему был запущен compose.yaml?
 
 По умолчанию команда `docker compose up` ищет файл `compose.yaml`. Поэтому именно этот файл был использован первым.
+Compose по умолчанию ищет файл в следующем порядке:
+compose.yaml 
+compose.yml
+docker-compose.yaml
+docker-compose.yml
 
 ---
 ## Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла**
