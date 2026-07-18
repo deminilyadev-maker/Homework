@@ -71,11 +71,11 @@ custom-nginx:1.0.0
 ## Переименование контейнера
 
 ```bash
-docker rename "<ФИО>-custom-nginx-t2" custom-nginx-t2
+docker rename "DeminIlyaViktorovich-custom-nginx-t2" custom-nginx-t2
 ```
 ### Скриншоты
 
-![Homework](Задание2.jpg)
+![Homework](Задание2Ренейм.jpg.jpg)
 
 ## Проверка
 
