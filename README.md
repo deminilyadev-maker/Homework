@@ -120,7 +120,7 @@ docker attach custom-nginx-t2
 docker start custom-nginx-t2
 ```
 ### Скриншоты
-![Homework](Tsk3Attach.png)
+![Homework](Tsk3start.png)
 
 ---
 
@@ -130,7 +130,7 @@ docker start custom-nginx-t2
 docker exec -it custom-nginx-t2 bash
 ```
 ### Скриншоты
-![Homework](Tsk3Attach.png)
+![Homework](Tsk3Bash.png)
 
 ---
 
@@ -142,7 +142,7 @@ apt-get update
 apt-get install nano -y
 ```
 ### Скриншоты
-![Homework](Tsk3Attach.png)
+![Homework](Tsk3Nano.png)
 
 ---
 
@@ -164,7 +164,7 @@ listen 80;
 listen 81;
 ```
 ### Скриншоты
-![Homework](Tsk3Attach.png)
+![Homework](Tsk3port81.png)
 
 ---
 
@@ -173,8 +173,6 @@ listen 81;
 ```bash
 nginx -s reload
 ```
-### Скриншоты
-![Homework](Tsk3Attach.png)
 
 ---
 
@@ -186,7 +184,7 @@ curl http://127.0.0.1:80
 curl http://127.0.0.1:81
 ```
 ### Скриншоты
-![Homework](Tsk3Attach.png)
+![Homework](Tsk3PortsTest.png)
 
 ---
 
@@ -200,7 +198,7 @@ docker port custom-nginx-t2
 curl http://127.0.0.1:8080
 ```
 ### Скриншоты
-![Homework](Tsk3Attach.png)
+![Homework](Tsk3final.png)
 
 ### Почему перестал работать порт 8080?
 
@@ -214,7 +212,7 @@ Docker продолжает перенаправлять порт хоста 808
 docker rm -f custom-nginx-t2
 ```
 ### Скриншоты
-![Homework](Tsk3Attach.png)
+![Homework](Tsk3remove.png)
 
 ---
 
