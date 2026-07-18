@@ -221,9 +221,9 @@ docker rm -f custom-nginx-t2
 ## Запуск контейнеров
 Вновь адаптация под  PowerShell - PWD 
 ```bash
-docker run -d --name centos-1 -v $(pwd):/data centos:7 tail -f /dev/null
+docker run -d --name centos-1 -v $(PWD):/data centos:7 tail -f /dev/null
 
-docker run -d --name debian-1 -v $(pwd):/data debian tail -f /dev/null
+docker run -d --name debian-1 -v $(PWD):/data debian tail -f /dev/null
 ```
 
 ---
