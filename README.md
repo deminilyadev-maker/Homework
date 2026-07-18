@@ -321,7 +321,7 @@ docker push localhost:5000/my-nginx:latest
 
 ### Скриншот
 
-![Homework](tsk5adm.jpg)
+![Homework](Tsk5adm.jpg)
 
 ---
 
@@ -340,7 +340,7 @@ services:
 
 ### Скриншот
 
-![Homework](tsk5Stack.jpg)
+![Homework](Tsk5Stack.jpg)
 
 ---
 
@@ -348,7 +348,7 @@ services:
 
 Скриншот раздела Config.
 
-![Homework](tsk5inspect.jpg)
+![Homework](Tsk5inspect.jpg)
 
 ---
 
