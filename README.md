@@ -73,6 +73,9 @@ custom-nginx:1.0.0
 ```bash
 docker rename "<ФИО>-custom-nginx-t2" custom-nginx-t2
 ```
+### Скриншоты
+
+![Homework](Задание2.jpg)
 
 ## Проверка
 
@@ -92,7 +95,7 @@ curl http://127.0.0.1:8080
 
 ## Скриншоты
 
-![Homework](Задание 2.jpg)
+![Homework](Задание2.jpg)
 ---
 
 # Задача 3
