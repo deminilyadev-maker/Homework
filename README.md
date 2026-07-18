@@ -238,24 +238,14 @@ echo "Hello from CentOS" > /data/file1.txt
 
 ---
 
-## Создание файла на хосте
-
-```bash
-echo "Hello from Host" > file2.txt
-```
-
----
-
 ## Проверка во втором контейнере
 
 ```bash
 docker exec -it debian-1 bash
+cat /data/test.txt
+cd /data
+ls -l
 
-ls -la /data
-
-cat /data/file1.txt
-
-cat /data/file2.txt
 ```
 
 ### Скриншоты
