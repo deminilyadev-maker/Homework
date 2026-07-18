@@ -212,7 +212,7 @@ Docker продолжает перенаправлять порт хоста 808
 docker rm -f custom-nginx-t2
 ```
 ### Скриншоты
-![Homework](Tsk3remove.png)
+![Homework](Tsk3Remove.png)
 
 ---
 
