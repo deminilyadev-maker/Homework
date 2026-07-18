@@ -62,10 +62,7 @@ docker push iliademin/custom-nginx:1.0.0
 ## Запуск контейнера
 
 ```bash
-docker run -d \
---name "DeminIlyaViktorovich-custom-nginx-t2" \
--p 127.0.0.1:8080:80 \
-custom-nginx:1.0.0
+docker run -d --name "DeminIlyaViktorovich-custom-nginx-t2" -p 127.0.0.1:8080:80 my-nginx:1.0.0
 ```
 
 ## Переименование контейнера
