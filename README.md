@@ -367,10 +367,6 @@ Compose обнаружил контейнеры, созданные предыд
 ```bash
 docker compose up -d --remove-orphans
 ```
-## Скриншоты
-
-![Homework](tsk5orp.png)
-
 ---
 
 ## Завершение работы compose-проекта
