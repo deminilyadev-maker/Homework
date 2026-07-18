@@ -53,12 +53,6 @@ docker push <dockerhub_username>/custom-nginx:1.0.0
 
 https://hub.docker.com/r/<dockerhub_username>/custom-nginx
 
-## Скриншоты
-
-### Сборка образа
-
-![Build](task1/screenshots/build.png)
-
 ### Образ в Docker Hub
 
 !https://hub.docker.com/repository/docker/iliademin/custom-nginx/general
