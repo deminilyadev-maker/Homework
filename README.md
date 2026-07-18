@@ -219,7 +219,7 @@ docker rm -f custom-nginx-t2
 # Задача 4
 
 ## Запуск контейнеров
-
+Вновь адаптация под  PowerShell - PWD 
 ```bash
 docker run -d --name centos-1 -v $(pwd):/data centos:7 tail -f /dev/null
 
