@@ -51,8 +51,6 @@ docker push iliademin/custom-nginx:1.0.0
 
 ## Docker Hub
 
-https://hub.docker.com/r/<dockerhub_username>/custom-nginx
-
 ### Образ в Docker Hub
 
 !https://hub.docker.com/repository/docker/iliademin/custom-nginx/general
