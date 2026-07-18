@@ -63,7 +63,7 @@ docker push iliademin/custom-nginx:1.0.0
 
 ```bash
 docker run -d \
---name "<ФИО>-custom-nginx-t2" \
+--name "DeminIlyaViktorovich-custom-nginx-t2" \
 -p 127.0.0.1:8080:80 \
 custom-nginx:1.0.0
 ```
@@ -75,7 +75,7 @@ docker rename "DeminIlyaViktorovich-custom-nginx-t2" custom-nginx-t2
 ```
 ### Скриншоты
 
-![Homework](Задание2Ренейм.jpg.jpg)
+![Homework](Задание2Ренейм.jpg)
 
 ## Проверка
 
