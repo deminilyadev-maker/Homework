@@ -295,7 +295,7 @@ services:
 ---
 ## Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла**
 ### Скриншоты
-![Homework](Tks4.jpg)
+![Homework](tsk5yamlreplace.png)
 --
 
 ## Почему после include запустились оба сервиса?
@@ -307,12 +307,12 @@ services:
 ## Загрузка образа в локальный Registry
 
 ```bash
-docker tag custom-nginx:1.0.0 localhost:5000/custom-nginx:latest
+docker tag my-nginx:1.0.0 localhost:5000/my-nginx:latest
 
-docker push localhost:5000/custom-nginx:latest
+docker push localhost:5000/my-nginx:latest
 ```
 ### Скриншоты
-![Homework](Tks4.jpg)
+![Homework](tsk5pullimage.png)
 ---
 
 ## Настройка Portainer
@@ -321,7 +321,7 @@ docker push localhost:5000/custom-nginx:latest
 
 ### Скриншот
 
-![Portainer](task5/screenshots/portainer-home.png)
+![Homework](tsk5pullimage.png)
 
 ---
 
