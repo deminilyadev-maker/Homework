@@ -293,6 +293,10 @@ services:
 По умолчанию команда `docker compose up` ищет файл `compose.yaml`. Поэтому именно этот файл был использован первым.
 
 ---
+## Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла**
+### Скриншоты
+![Homework](Tks4.jpg)
+--
 
 ## Почему после include запустились оба сервиса?
 
@@ -307,7 +311,8 @@ docker tag custom-nginx:1.0.0 localhost:5000/custom-nginx:latest
 
 docker push localhost:5000/custom-nginx:latest
 ```
-
+### Скриншоты
+![Homework](Tks4.jpg)
 ---
 
 ## Настройка Portainer
@@ -374,21 +379,3 @@ docker compose down
 ---
 
 ## Скриншоты
-
-### Compose
-
-![Compose](task5/screenshots/compose.png)
-
-### Registry Push
-
-![Registry](task5/screenshots/push.png)
-
-### Warning
-
-![Warning](task5/screenshots/warning.png)
-
-### docker compose down
-
-![Down](task5/screenshots/down.png)
-
----
