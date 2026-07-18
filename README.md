@@ -259,7 +259,7 @@ cat /data/file2.txt
 ```
 
 ### Скриншоты
-![Homework](Tks4.png)
+![Homework](Tks4.jpg)
 
 ---
 
