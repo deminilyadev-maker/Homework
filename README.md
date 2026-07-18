@@ -367,6 +367,9 @@ Compose обнаружил контейнеры, созданные предыд
 ```bash
 docker compose up -d --remove-orphans
 ```
+## Скриншоты
+
+![Homework](tsk5orp.png)
 
 ---
 
@@ -379,3 +382,5 @@ docker compose down
 ---
 
 ## Скриншоты
+
+![Homework](tsk5down.png)
