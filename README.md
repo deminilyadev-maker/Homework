@@ -92,8 +92,7 @@ curl http://127.0.0.1:8080
 
 ## Скриншоты
 
-![Task2](task2/screenshots/task2.png)
-
+![Homework](Задание2.jpg)
 ---
 
 # Задача 3
