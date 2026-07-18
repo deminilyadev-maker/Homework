@@ -258,9 +258,8 @@ cat /data/file1.txt
 cat /data/file2.txt
 ```
 
-## Скриншоты
-
-![Task4](task4/screenshots/task4.png)
+### Скриншоты
+![Homework](Tsk4.png)
 
 ---
 
