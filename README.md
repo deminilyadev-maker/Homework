@@ -44,7 +44,7 @@ docker pull nginx:1.29.0
 
 docker build -t custom-nginx:1.0.0 .
 
-docker tag custom-nginx:1.0.0 iliademin/custom-nginx:1.0.0
+docker tag my-nginx:1.0.0 iliademin/custom-nginx:1.0.0
 
 docker push iliademin/custom-nginx:1.0.0
 ```
